@@ -1,6 +1,3 @@
-INSTRUCTIONS 
-Complete the exercises below and upload them as a single MATLAB script file using the naming convention  ENGR131_21F_P*Lab##_abc123.m, replacing abc123 with your Case ID, ## with the two-digit lab number,  and * with the phase of the class. For example, if Dr. Williams were submitting Lab 1 it would be  ENGR131_21F_P1Lab01_mrw8.m 
-For your script, please perform the following: 
 1. Separate each question into separate, runnable sections using the “%%” comment notation. 2. Be sure to clear the Workspace and Command Window at the top of each question section UNLESS  OTHERWISE INSTRUCTED. 
 3. You may use the code and notes from class and MATLAB’s documentation to solve these problems.  4. Use comments as appropriate to indicate your thoughts and how your code works (or is supposed to work).  This is 5 points (10%) of your grade. 
 QUESTIONS 
